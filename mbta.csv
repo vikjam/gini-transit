@@ -1,0 +1,325 @@
+#ff0000,Red Line (main),Alewife Station,-71.14098072052002,42.39490704766491,250173549003009
+#ff0000,Red Line (main),Davis Station,-71.12205505371094,42.39606385476378,250173509003007
+#ff0000,Red Line (main),Porter Square Station,-71.11924409866333,42.3883461218366,250173545003000
+#ff0000,Red Line (main),Harvard Square Station,-71.119106,42.373939,250173540003008
+#ff0000,Red Line (main),Central Station,-71.10332250595093,42.36516344770085,250173530002007
+#ff0000,Red Line (main),Kendall/MIT Station,-71.086585521698,42.362460226799854,250173531022009
+#ff0000,Red Line (main),Charles/Massachusetts General Hospital Station,-71.07208013534546,42.36127108986245,250250202003004
+#ff0000,Red Line (main),Park Street Station,-71.06229543685913,42.35619718606788,250250701013008
+#ff0000,Red Line (main),Downtown Crossing Station,-71.060788,42.355295,250250701013008
+#ff0000,Red Line (main),South Station,-71.05499982833862,42.351709611022265,250250701011027
+#ff0000,Red Line (main),Broadway Station,-71.05713,42.3429,250250612001050
+#ff0000,Red Line (main),Andrew Station,-71.05696,42.32955,250250612003007
+#ff0000,Red Line (main),JFK / UMass Station,-71.05239272117615,42.32143786294873,250250910014002
+#ff0000,Red Line (Ashmont),JFK / UMass Station,-71.05239272117615,42.32143786294873,250250910014002
+#ff0000,Red Line (Ashmont),Savin Hill Station,-71.0532295703888,42.311307017022905,250250910012008
+#ff0000,Red Line (Ashmont),Fields Corner Station,-71.06070756912231,42.300261981850944,250250922001001
+#ff0000,Red Line (Ashmont),Shawmut Station,-71.06578230857849,42.29279437686293,250250922003001
+#ff0000,Red Line (Ashmont),Ashmont Station,-71.064219,42.285924,250251008001006
+#ff0000,Red Line (Mattapan),Ashmont Station,-71.064219,42.285924,250251008001006
+#ff0000,Red Line (Mattapan),Cedar Grove Station,-71.05974197387695,42.27842011800629,250251008005005
+#ff0000,Red Line (Mattapan),Butler Station,-71.06276750564575,42.27211695157111,250251008004028
+#ff0000,Red Line (Mattapan),Milton Station,-71.06794953346252,42.270346553400415,250214163005001
+#ff0000,Red Line (Mattapan),Central Avenue Station,-71.07324957847595,42.270013109615185,250214163005002
+#ff0000,Red Line (Mattapan),Valley Road Station,-71.08306646347046,42.267893318588435,250214163005002
+#ff0000,Red Line (Mattapan),Capen Street Station,-71.08722925186157,42.26756780129316,250214163005008
+#ff0000,Red Line (Mattapan),Mattapan Station,-71.09313011169434,42.267456648661,250251010023021
+#ff0000,Red Line (Braintree),JFK / UMass Station,-71.05239272117615,42.32143786294873,250250910014002
+#ff0000,Red Line (Braintree),North Quincy Station,-71.02917551994324,42.27481611765017,250214172001036
+#ff0000,Red Line (Braintree),Wollaston Station,-71.01940155029297,42.26561466222263,250214176014002
+#ff0000,Red Line (Braintree),Quincy Center Station,-71.004798,42.250879,250214177013022
+#ff0000,Red Line (Braintree),Quincy Adams Station,-71.00714921951294,42.23275157038817,250214180041021
+#ff0000,Red Line (Braintree),Braintree Station,-71.00133419036865,42.20878042409267,250214191003020
+#00cc00,Green Line (main),Lechmere Station,-71.076884,42.370582,250173521021000
+#00cc00,Green Line (main),Science Park Station,-71.06816411018372,42.3666775176796,250250203011003
+#00cc00,Green Line (main),North Station,-71.061423,42.365512,250250203032032
+#00cc00,Green Line (main),Haymarket Station,-71.058996,42.362498,250250303003003
+#00cc00,Green Line (main),Government Center Station,-71.059895,42.359297,250250303003025
+#00cc00,Green Line (main),Park Street Station,-71.06229543685913,42.35619718606788,250250701013008
+#00cc00,Green Line (main),Boylston Street Station,-71.06487035751343,42.352391489359306,250250702003000
+#00cc00,Green Line (main),Arlington Station,-71.070498,42.351868,250250703001001
+#00cc00,Green Line (main),Copley Station,-71.078089,42.349962,250250107021012
+#00cc00,"Green Line (B, C, D)",Copley Station,-71.078089,42.349962,250250107021012
+#00cc00,"Green Line (B, C, D)",Hynes Convention Center/ICA Station,-71.088396,42.348097,250250101041008
+#00cc00,"Green Line (B, C, D)",Kenmore Station,-71.095296,42.348797,250250101043010
+#00cc00,Green Line (B),Kenmore Station,-71.095296,42.348797,250250101043010
+#00cc00,Green Line (B),Blandford Street Station,-71.100796,42.349297,250250101031002
+#00cc00,Green Line (B),Boston University East Station,-71.103825,42.349648,250250101031004
+#00cc00,Green Line (B),Boston University Central Station,-71.10618710517883,42.349933521091316,250250101033011
+#00cc00,Green Line (B),Boston University West Station,-71.11407279968262,42.350900862009205,250250008032011
+#00cc00,Green Line (B),St. Paul Street Station (B),-71.1159074306488,42.35113080151281,250250008032007
+#00cc00,Green Line (B),Pleasant Street Station,-71.11821413040161,42.351344882363485,250250008032007
+#00cc00,Green Line (B),Babcock Street Station,-71.12126111984253,42.351741326457805,250250008032008
+#00cc00,Green Line (B),Packards Corner Station,-71.12486600875854,42.3520743375646,250250007031003
+#00cc00,Green Line (B),Harvard Avenue Station,-71.13102436065674,42.35023482559652,250250007044003
+#00cc00,Green Line (B),Griggs Street / Long Avenue Station,-71.13415718078613,42.34871243015163,250250007044006
+#00cc00,Green Line (B),Allston Street Station,-71.13778352737427,42.3484428354488,250250007015004
+#00cc00,Green Line (B),Warren Street Station,-71.1402940750122,42.348474552532686,250250007015002
+#00cc00,Green Line (B),Washington Street Station,-71.1428689956665,42.34368509163107,250250005042001
+#00cc00,Green Line (B),Sutherland Street Station,-71.14662408828735,42.34149640856349,250250005031002
+#00cc00,Green Line (B),Chiswick Road Station,-71.15130186080933,42.34033859612907,250250005032003
+#00cc00,Green Line (B),Chestnut Hill Avenue Station,-71.15334033966064,42.338086351966545,250250005022000
+#00cc00,Green Line (B),South Street Station,-71.1577820777893,42.33957728318422,250250005022002
+#00cc00,Green Line (B),Boston College Station,-71.16619348526001,42.3399420801205,250250005024000
+#00cc00,Green Line (C),Kenmore Station,-71.095296,42.348797,250250101043010
+#00cc00,Green Line (C),St. Marys Street Station,-71.10680937767029,42.34613537466565,250214001001020
+#00cc00,Green Line (C),Hawes Street Station,-71.11101508140564,42.34495385852275,250214001004022
+#00cc00,Green Line (C),Kent Street Station,-71.114596,42.343997,250214001004025
+#00cc00,Green Line (C),St. Paul Street Station (C),-71.11734509468079,42.34322515730961,250214002002013
+#00cc00,Green Line (C),Coolidge Corner Station,-71.121396,42.342097,250214004001009
+#00cc00,Green Line (C),Summit Avenue (formerly Winchester Street) Station,-71.12461924552917,42.34128229417212,250214004002001
+#00cc00,Green Line (C),Brandon Hall Station,-71.128526,42.340072,250214004002001
+#00cc00,Green Line (C),Fairbanks Station,-71.13134622573853,42.33960900474095,250214004002001
+#00cc00,Green Line (C),Washington Square Station,-71.13542318344116,42.339339370998616,250214004003013
+#00cc00,Green Line (C),Tappan Street Station,-71.13879203796387,42.33846701861673,250214004003013
+#00cc00,Green Line (C),Dean Road Station,-71.1419677734375,42.337705683011926,250214006001016
+#00cc00,Green Line (C),Englewood Avenue Station,-71.14512205123901,42.337134675259264,250214006001015
+#00cc00,Green Line (C),Cleveland Circle Station,-71.15072250366211,42.33589747400816,250250005021011
+#00cc00,Green Line (D),Kenmore Station,-71.095296,42.348797,250250101043010
+#00cc00,Green Line (D),Fenway Station,-71.10439538955688,42.345286905589,250250102043014
+#00cc00,Green Line (D),Longwood Station,-71.11089706420898,42.34044962016338,250214001002003
+#00cc00,Green Line (D),Brookline Village Station,-71.11811757087708,42.33204296023296,250214007002008
+#00cc00,Green Line (D),Brookline Hills Station,-71.12586379051208,42.33121016387881,250214007003008
+#00cc00,Green Line (D),Beaconsfield Station,-71.14160299301147,42.33596092081828,250214006002010
+#00cc00,Green Line (D),Reservoir Station,-71.14940285682678,42.33493783319957,250214006002014
+#00cc00,Green Line (D),Chestnut Hill Station,-71.16551756858826,42.32667321294672,250173736001009
+#00cc00,Green Line (D),Newton Center Station,-71.19231820106506,42.32935417804916,250173738001002
+#00cc00,Green Line (D),Newton Highland Station,-71.20617985725403,42.3216996407954,250173742001009
+#00cc00,Green Line (D),Eliot Station,-71.21691942214966,42.319192874877594,250173742003014
+#00cc00,Green Line (D),Waban Station,-71.23117804527283,42.326260746635725,250173744004013
+#00cc00,Green Line (D),Woodland Station,-71.24492168426514,42.33368472646276,250173748002002
+#00cc00,Green Line (D),Riverside Station,-71.25173449516296,42.337110883157045,250173748002002
+#00cc00,Green Line (E),Copley Station,-71.078089,42.349962,250250107021012
+#00cc00,Green Line (E),Prudential Station,-71.08158588409424,42.34563581014697,250250106001018
+#00cc00,Green Line (E),Symphony Station,-71.085095,42.342697,250250104041008
+#00cc00,Green Line (E),Northeastern University Station,-71.0888922214508,42.340322735536745,250250104051000
+#00cc00,Green Line (E),Museum of Fine Arts Station,-71.09547972679138,42.33772154426439,250250104051013
+#00cc00,Green Line (E),Longwood Medical Area Station,-71.100652,42.335837,250250810011013
+#00cc00,Green Line (E),Brigham Circle Station,-71.104996,42.334097,250250810014000
+#00cc00,Green Line (E),Fenwood Road Station,-71.1055862903595,42.33374817550522,250250810014001
+#00cc00,Green Line (E),Mission Park Station,-71.10707759857178,42.33322471899058,250250810014003
+#00cc00,Green Line (E),Riverway Station,-71.11207723617554,42.33197950947023,250250811002006
+#00cc00,Green Line (E),Back of the Hill Station,-71.11133694648743,42.3300759568237,250250811003000
+#00cc00,Green Line (E),Heath Street Station,-71.11059665679932,42.32875929920691,250251207001000
+,Blue Line,Bowdoin Station,-71.062129,42.361457,250250303003010
+,Blue Line,Government Center Station,-71.059895,42.359297,250250303003025
+,Blue Line,State Station,-71.057795,42.358897,250250303004002
+,Blue Line,Aquarium Station,-71.05357,42.359456,250250303002020
+,Blue Line,Maverick Station,-71.039926,42.36886,250250503002006
+,Blue Line,(Logan) Airport Station,-71.03519439697266,42.37273343268597,250250506001015
+,Blue Line,Wood Island Station,-71.023394,42.380797,250250509011017
+,Blue Line,Orient Heights Station,-71.006628,42.386676,250250511011006
+,Blue Line,Suffolk Downs Station,-71.00035786628723,42.388401591475336,250250511011006
+,Blue Line,Beachmont Station,-70.9921932220459,42.39741871815673,250251707011023
+,Blue Line,Revere Beach Station,-70.9921932220459,42.407163364836734,250251707012004
+,Blue Line,Wonderland Station,-70.992144,42.414246,250251705011006
+#ff6600,Orange Line,Oak Grove Station,-71.07118964195251,42.43534301653641,250173411012000
+#ff6600,Orange Line,Malden Center Station,-71.07387185096741,42.42731334378719,250173413002014
+#ff6600,Orange Line,Wellington Station,-71.0770046710968,42.40429558533948,250173398011011
+#ff6600,Orange Line,Sullivan Square Station (Broadway Exit),-71.07707977294922,42.38575484265729,250250406001017
+#ff6600,Orange Line,Sullivan Square Station (Cambridge Street Exit),-71.07710123062134,42.38301288338894,250250406001027
+#ff6600,Orange Line,Community College Station,-71.07027769088745,42.37263831811535,250250404012046
+#ff6600,Orange Line,North Station,-71.061423,42.365512,250250203032032
+#ff6600,Orange Line,Haymarket Station,-71.058996,42.362498,250250303003003
+#ff6600,Orange Line,State Station,-71.057795,42.358897,250250303004002
+#ff6600,Orange Line,Downtown Crossing Station,-71.060788,42.355295,250250701013008
+#ff6600,Orange Line,Chinatown Station,-71.062892,42.352228,250250701016000
+#ff6600,Orange Line,Tufts (formerly New England) Medical Center Station,-71.063795,42.349873,250250702003005
+#ff6600,Orange Line,Back Bay Station,-71.07603907585144,42.34727722151564,250250707001007
+#ff6600,Orange Line,Massachusetts Avenue Station (Orange),-71.0832166671753,42.34155191958295,250250708002000
+#ff6600,Orange Line,Ruggles Station,-71.09052300453186,42.335667478784956,250250808011000
+#ff6600,Orange Line,Roxbury Crossing Station,-71.09540462493896,42.33152742093294,250250814003003
+#ff6600,Orange Line,Jackson Square Station,-71.10008239746094,42.32273880877684,250251205001000
+#ff6600,Orange Line,Stony Brook Station,-71.10282897949219,42.319200807838655,250251203011000
+#ff6600,Orange Line,Green Street Station,-71.10731363296509,42.3105691548223,250251202012005
+#ff6600,Orange Line,Forest Hills Station,-71.113411,42.300362,250251101035002
+#808080,"Silver Line (SL1, SL2)",South Station,-71.05499982833862,42.351709611022265,250250701011027
+#808080,"Silver Line (SL1, SL2)",Courthouse Station,-71.04530096054077,42.3520743375646,250250606001008
+#808080,"Silver Line (SL1, SL2)",World Trade Center Station,-71.0425329208374,42.348839297847015,250250606001037
+#808080,"Silver Line (SL1, SL2)",Silver Line Way Station,-71.03716850280762,42.348014653250175,250250606001063
+#808080,Silver Line (SL1),Silver Line Way Station,-71.03716850280762,42.348014653250175,250250606001063
+#808080,Silver Line (SL1),Terminal A,-71.021494,42.364422,250259813002030
+#808080,Silver Line (SL1),Terminal B Stop 1,-71.018588,42.361325,250259813002030
+#808080,Silver Line (SL1),Terminal B Stop 2,-71.01882,42.364441,250259813002030
+#808080,Silver Line (SL1),Terminal C,-71.018148,42.367461,250259813002030
+#808080,Silver Line (SL1),Terminal C,-71.020467,42.370242,250259813002030
+#808080,Silver Line (SL1),Silver Line Way Station,-71.03716850280762,42.348014653250175,250250606001063
+#808080,Silver Line (SL2),Silver Line Way Station,-71.03716850280762,42.348014653250175,250250606001063
+#808080,Silver Line (SL2),306 Northern Avenue,-71.035882,42.34769,250259812021028
+#808080,Silver Line (SL2),Northern Avenue at Harbor Street,-71.0352373123169,42.346619076210494,250250606001094
+#808080,Silver Line (SL2),Northern Avenue at Tide Street,-71.03197574615479,42.34509659319577,250259812021017
+#808080,Silver Line (SL2),21 Dry Dock Avenue,-71.031036,42.344626,250259812021019
+#808080,Silver Line (SL2),25 Dry Dock Avenue,-71.028307,42.344602,250259812021019
+#808080,Silver Line (SL2),88 Black Falcon Avenue,-71.02721214294434,42.3439388470578,250259812021021
+#808080,Silver Line (SL2),Design Center,-71.034797,42.34468,250259812021032
+#808080,Silver Line (SL4),South Station,-71.05499982833862,42.351709611022265,250250701011027
+#808080,Silver Line (SL4),Chinatown Station,-71.062892,42.352228,250250701016000
+#808080,"Silver Line (SL4, SL5)",Chinatown Station,-71.062892,42.352228,250250701016000
+#808080,"Silver Line (SL4, SL5)",Tufts (formerly New England) Medical Center Station,-71.063795,42.349873,250250702003005
+#808080,"Silver Line (SL4, SL5)",Herald Street Station,-71.064842,42.346377,250250704021011
+#808080,"Silver Line (SL4, SL5)",East Berkeley Street Station,-71.066039,42.343878,250250705001000
+#808080,"Silver Line (SL4, SL5)",Union Park Street Station,-71.069795,42.341197,250250712011016
+#808080,"Silver Line (SL4, SL5)",Newton Street Station,-71.073795,42.338697,250250711011005
+#808080,"Silver Line (SL4, SL5)",Worcester Square Station,-71.075812,42.337456,250250709001020
+#808080,"Silver Line (SL4, SL5)",Massachusetts Avenue Station (Silver),-71.077238,42.336441,250250709002006
+#808080,"Silver Line (SL4, SL5)",Lenox Street Station,-71.07881784439087,42.33504886676952,250250804011001
+#808080,"Silver Line (SL4, SL5)",Melnea Cass Boulevard Station,-71.08107089996338,42.33290747049773,250250804012012
+#808080,"Silver Line (SL4, SL5)",Dudley Square Station,-71.08511567115784,42.328894138904225,250250806013007
+#808080,Silver Line (SL5),Tufts (formerly New England) Medical Center Station,-71.063795,42.349873,250250702003005
+#808080,Silver Line (SL5),Boylston Street Station,-71.06487035751343,42.352391489359306,250250702003000
+#808080,Silver Line (SL5),Downtown Crossing Station,-71.060788,42.355295,250250701013008
+#808080,Silver Line (SL5),Chinatown Station,-71.062892,42.352228,250250701016000
+#a000a0,Commuter Rail (Fairmount Line),Readville,-71.132376,42.23775,250251402012006
+#a000a0,Commuter Rail (Fairmount Line),Fairmount,-71.11927,42.253638,250251403001006
+#a000a0,Commuter Rail (Fairmount Line),Morton Street,-71.085475,42.280994,250251003004009
+#a000a0,Commuter Rail (Fairmount Line),Uphams Corner,-71.069072,42.31867,250250914002000
+#a000a0,Commuter Rail (Fairmount Line),South Station,-71.05499982833862,42.351709611022265,250250701011027
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),Fitchburg,-71.79275,42.581739,250277107001020
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),North Leominster,-71.739402,42.540577,250277095011015
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),Shirley,-71.648363,42.544726,250173882003027
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),Ayer,-71.590117,42.560047,250173251005057
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),Littleton/Route 495,-71.502643,42.519236,250173241011027
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),South Acton,-71.455322,42.461575,250173631041007
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),West Concord,-71.392371,42.456372,250173612002002
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),Concord,-71.358051,42.457147,250173611001016
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),Lincoln,-71.325344,42.414229,250173602003014
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),Silver Hill,-71.302357,42.395625,250173671004003
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),Hastings,-71.289203,42.385755,250173671002001
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),Kendal Green,-71.282411,42.37897,250173671002001
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),Brandeis/Roberts,-71.260854,42.361728,250173684002008
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),Waltham,-71.236595,42.374424,250173688001008
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),Waverley,-71.189864,42.387489,250173577003012
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),Belmont Center,-71.174499,42.39842,250173571004014
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),Porter Square Station,-71.11924409866333,42.3883461218366,250173545003000
+#a000a0,Commuter Rail (Fitchburg/South Acton Line),North Station,-71.061423,42.365512,250250203032032
+#a000a0,Commuter Rail (Framingham/Worcester Line),Worcester / Union,-71.793881,42.261796,250277317001087
+#a000a0,Commuter Rail (Framingham/Worcester Line),Grafton,-71.684614,42.246291,250277613002014
+#a000a0,Commuter Rail (Framingham/Worcester Line),Westborough,-71.652204,42.269318,250277424021041
+#a000a0,Commuter Rail (Framingham/Worcester Line),Southborough,-71.523621,42.267518,250277411024008
+#a000a0,Commuter Rail (Framingham/Worcester Line),Ashland,-71.478813,42.261694,250173851003016
+#a000a0,Commuter Rail (Framingham/Worcester Line),Framingham,-71.416792,42.276719,250173832001002
+#a000a0,Commuter Rail (Framingham/Worcester Line),West Natick,-71.390548,42.281855,250173826011001
+#a000a0,Commuter Rail (Framingham/Worcester Line),Natick,-71.34764,42.285227,250173825002025
+#a000a0,Commuter Rail (Framingham/Worcester Line),Wellesley Square,-71.294311,42.296427,250214044005000
+#a000a0,Commuter Rail (Framingham/Worcester Line),Wellesley Hills,-71.276769,42.310027,250214042023000
+#a000a0,Commuter Rail (Framingham/Worcester Line),Wellesley Farms,-71.272288,42.323608,250214042013008
+#a000a0,Commuter Rail (Framingham/Worcester Line),Auburndale,-71.246658,42.346087,250173748001006
+#a000a0,Commuter Rail (Framingham/Worcester Line),West Newton,-71.22901,42.348599,250173745001001
+#a000a0,Commuter Rail (Framingham/Worcester Line),Newtonville,-71.207338,42.351603,250173733003025
+#a000a0,Commuter Rail (Framingham/Worcester Line),Yawkey,-71.098937,42.346796,250250102034001
+#a000a0,Commuter Rail (Framingham/Worcester Line),Back Bay Station,-71.07603907585144,42.34727722151564,250250707001007
+#a000a0,"Commuter Rail (Framingham/Worcester, Franklin, Needham, Providence/Stoughton)",Back Bay Station,-71.07603907585144,42.34727722151564,250250707001007
+#a000a0,"Commuter Rail (Framingham/Worcester, Franklin, Needham, Providence/Stoughton)",South Station,-71.05499982833862,42.351709611022265,250250701011027
+#a000a0,Commuter Rail (Franklin Line),Forge Park/Route 495,-71.430342,42.090704,250214421022036
+#a000a0,Commuter Rail (Franklin Line),Franklin,-71.396735,42.083591,250214422021035
+#a000a0,Commuter Rail (Franklin Line),Norfolk,-71.325217,42.120694,250214091011052
+#a000a0,Commuter Rail (Franklin Line),Walpole,-71.259016,42.144192,250214113023018
+#a000a0,Commuter Rail (Franklin Line),Plimptonville,-71.236125,42.159123,250214112003016
+#a000a0,Commuter Rail (Franklin Line),Windsor Gardens,-71.220704,42.172192,250214134022005
+#a000a0,Commuter Rail (Franklin Line),Norwood Central,-71.199748,42.190776,250214134011019
+#a000a0,Commuter Rail (Franklin Line),Norwood Depot,-71.196784,42.195668,250214132003005
+#a000a0,Commuter Rail (Franklin Line),Islington,-71.183406,42.220714,250214123003018
+#a000a0,Commuter Rail (Franklin Line),Dedham Corporate,-71.173806,42.225896,250214023003039
+#a000a0,Commuter Rail (Franklin Line),Endicott,-71.160413,42.232881,250214024005008
+#a000a0,Commuter Rail (Franklin Line),Readville,-71.132376,42.23775,250251402012006
+#a000a0,Commuter Rail (Franklin Line),Hyde Park,-71.125022,42.255121,250251403003002
+#a000a0,"Commuter Rail (Franklin, Providence/Stoughton)",Hyde Park,-71.125022,42.255121,250251403003002
+#a000a0,"Commuter Rail (Franklin, Providence/Stoughton)",Ruggles Station,-71.09052300453186,42.335667478784956,250250808011000
+#a000a0,"Commuter Rail (Needham, Franklin, Providence/Stoughton)",Ruggles Station,-71.09052300453186,42.335667478784956,250250808011000
+#a000a0,"Commuter Rail (Needham, Franklin, Providence/Stoughton)",Back Bay Station,-71.07603907585144,42.34727722151564,250250707001007
+#a000a0,Commuter Rail (Greenbush Line),Greenbush Station,-70.746,42.1795,250235052002017
+#a000a0,Commuter Rail (Greenbush Line),North Scituate Station,-70.7877,42.2199,250235051012023
+#a000a0,Commuter Rail (Greenbush Line),Cohasset Station,-70.8356,42.2418,250214231005000
+#a000a0,Commuter Rail (Greenbush Line),Nantasket Junction Station,-70.8697,42.2448,250235011011029
+#a000a0,Commuter Rail (Greenbush Line),West Hingham Station,-70.9032,42.2367,250235011024051
+#a000a0,Commuter Rail (Greenbush Line),East Weymouth Station,-70.9214,42.2191,250214226001008
+#a000a0,Commuter Rail (Greenbush Line),Weymouth Landing/East Braintree Station,-70.9682,42.2208,250214195001000
+#a000a0,Commuter Rail (Greenbush Line),Quincy Center Station,-71.004798,42.250879,250214177013022
+#a000a0,"Commuter Rail (Greenbush, Kingston/Plymouth, Middleborough/Lakeville)",Quincy Center Station,-71.004798,42.250879,250214177013022
+#a000a0,"Commuter Rail (Greenbush, Kingston/Plymouth, Middleborough/Lakeville)",JFK / UMass Station,-71.05239272117615,42.32143786294873,250250910014002
+#a000a0,"Commuter Rail (Greenbush, Kingston/Plymouth, Middleborough/Lakeville)",South Station,-71.05499982833862,42.351709611022265,250250701011027
+#a000a0,Commuter Rail (Haverhill Line),Haverhill,-71.085962,42.772684,250092601003021
+#a000a0,Commuter Rail (Haverhill Line),Bradford,-71.085998,42.768899,250092610003017
+#a000a0,Commuter Rail (Haverhill Line),Lawrence,-71.159797,42.700094,250092516004015
+#a000a0,Commuter Rail (Haverhill Line),Andover,-71.144156,42.657798,250092542003007
+#a000a0,Commuter Rail (Haverhill Line),Ballardvale,-71.159653,42.626449,250092544032030
+#a000a0,Commuter Rail (Haverhill Line),North Wilmington,-71.159724,42.568462,250173311024015
+#a000a0,Commuter Rail (Haverhill Line),Reading,-71.10744,42.52148,250173341001005
+#a000a0,Commuter Rail (Haverhill Line),Wakefield,-71.075,42.501811,250173351003009
+#a000a0,Commuter Rail (Haverhill Line),Greenwood,-71.067233,42.483473,250173354004007
+#a000a0,Commuter Rail (Haverhill Line),Melrose Highlands,-71.06827,42.468793,250173361001011
+#a000a0,Commuter Rail (Haverhill Line),Melrose/Cedar Park,-71.069448,42.459128,250173361002011
+#a000a0,Commuter Rail (Haverhill Line),Wyoming Hill,-71.069518,42.452097,250173364013001
+#a000a0,Commuter Rail (Haverhill Line),Malden Center,-71.074227,42.426407,250173413002014
+#a000a0,Commuter Rail (Haverhill Line),North Station,-71.061423,42.365512,250250203032032
+#a000a0,Commuter Rail (Lowell Line),Lowell,-71.314916,42.638402,250173119002017
+#a000a0,Commuter Rail (Lowell Line),North Billerica,-71.280869,42.592881,250173165001017
+#a000a0,Commuter Rail (Lowell Line),Wilmington,-71.173569,42.546368,250173311023056
+#a000a0,Commuter Rail (Lowell Line),Anderson/Woburn,-71.13865,42.518082,250173336003017
+#a000a0,Commuter Rail (Lowell Line),Mishawum,-71.137511,42.503595,250173336003074
+#a000a0,Commuter Rail (Lowell Line),Winchester Center,-71.137041,42.45265,250173385004017
+#a000a0,Commuter Rail (Lowell Line),Wedgemere,-71.140909,42.445284,250173384002006
+#a000a0,Commuter Rail (Lowell Line),West Medford,-71.132468,42.421184,250173393001004
+#a000a0,Commuter Rail (Lowell Line),North Station,-71.061423,42.365512,250250203032032
+#a000a0,Commuter Rail (Haverhill via Lowell),Ballardvale,-71.159653,42.626449,250092544032030
+#a000a0,Commuter Rail (Haverhill via Lowell),Wilmington,-71.173569,42.546368,250173311023056
+#a000a0,Commuter Rail (Needham Line),Needham Heights,-71.235087,42.293139,250214035001074
+#a000a0,Commuter Rail (Needham Line),Needham Center,-71.238089,42.280274,250214034002024
+#a000a0,Commuter Rail (Needham Line),Needham Junction,-71.238007,42.273327,250214033002006
+#a000a0,Commuter Rail (Needham Line),Hersey,-71.214853,42.275842,250214031003013
+#a000a0,Commuter Rail (Needham Line),West Roxbury,-71.159932,42.2816,250251302004007
+#a000a0,Commuter Rail (Needham Line),Highland,-71.1547,42.284869,250251302003017
+#a000a0,Commuter Rail (Needham Line),Bellevue,-71.14606,42.287138,250251106072005
+#a000a0,Commuter Rail (Needham Line),Roslindale Village,-71.12961,42.287206,250251106073007
+#a000a0,Commuter Rail (Needham Line),Forest Hills Station,-71.113411,42.300362,250251101035002
+#a000a0,Commuter Rail (Needham Line),Ruggles Station,-71.09052300453186,42.335667478784956,250250808011000
+#a000a0,"Commuter Rail (Newburyport, Rockport)",Beverly Depot,-70.885168,42.546907,250092174004016
+#a000a0,"Commuter Rail (Newburyport, Rockport)",Salem,-70.898903,42.523927,250092045003007
+#a000a0,"Commuter Rail (Newburyport, Rockport)",Swampscott,-70.922036,42.473739,250092021024007
+#a000a0,"Commuter Rail (Newburyport, Rockport)",Lynn,-70.947794,42.462293,250092070001009
+#a000a0,"Commuter Rail (Newburyport, Rockport)",River Works,-70.975698,42.453804,250092058003005
+#a000a0,"Commuter Rail (Newburyport, Rockport)",Chelsea,-71.034803,42.39564,250251604001027
+#a000a0,"Commuter Rail (Newburyport, Rockport)",North Station,-71.061423,42.365512,250250203032032
+#a000a0,Commuter Rail (Rockport),Rockport,-70.625616,42.656173,250092201014014
+#a000a0,Commuter Rail (Rockport),Gloucester,-70.668767,42.616069,250092215001004
+#a000a0,Commuter Rail (Rockport),West Gloucester,-70.706456,42.610928,250092219021053
+#a000a0,Commuter Rail (Rockport),Manchester,-70.770473,42.57357,250092181003012
+#a000a0,Commuter Rail (Rockport),Beverly Farms,-70.812745,42.561403,250092176003014
+#a000a0,Commuter Rail (Rockport),Prides Crossing,-70.824813,42.559513,250092176005027
+#a000a0,Commuter Rail (Rockport),Montserrat,-70.870035,42.561483,250092175003004
+#a000a0,Commuter Rail (Rockport),Beverly Depot,-70.885168,42.546907,250092174004016
+#a000a0,Commuter Rail (Newburyport),Newburyport,-70.880262,42.800292,250092683003011
+#a000a0,Commuter Rail (Newburyport),Rowley,-70.859436,42.725351,250092701001056
+#a000a0,Commuter Rail (Newburyport),Ipswich,-70.840024,42.678355,250092232001033
+#a000a0,Commuter Rail (Newburyport),Hamilton/Wenham,-70.874005,42.610756,250092151013014
+#a000a0,Commuter Rail (Newburyport),North Beverly,-70.884501,42.582471,250092171001017
+#a000a0,Commuter Rail (Newburyport),Beverly Depot,-70.885168,42.546907,250092174004016
+#a000a0,"Commuter Rail (Providence, Stoughton)",Canton Junction,-71.153374,42.163423,250214151022012
+#a000a0,"Commuter Rail (Providence, Stoughton)",Route 128,-71.1471,42.209884,250214123001031
+#a000a0,"Commuter Rail (Providence, Stoughton)",Hyde Park,-71.125022,42.255121,250251403003002
+#a000a0,"Commuter Rail (Providence, Stoughton)",Providence,-71.413332,41.829641,440070008001007
+#a000a0,"Commuter Rail (Providence, Stoughton)",South Attleboro,-71.354621,41.897943,250056311003005
+#a000a0,"Commuter Rail (Providence, Stoughton)",Attleboro,-71.284897,41.942097,250056315001000
+#a000a0,"Commuter Rail (Providence, Stoughton)",Mansfield,-71.219318,42.032734,250056101001004
+#a000a0,"Commuter Rail (Providence, Stoughton)",Sharon,-71.183213,42.124804,250214143001048
+#a000a0,"Commuter Rail (Providence, Stoughton)",Canton Junction,-71.153374,42.163423,250214151022012
+#a000a0,Commuter Rail (Stoughton),Stoughton,-71.10309,42.123818,250214564011000
+#a000a0,Commuter Rail (Stoughton),Canton Center,-71.14553,42.156769,250214151023009
+#a000a0,Commuter Rail (Stoughton),Canton Junction,-71.153374,42.163423,250214151022012
+#a000a0,Commuter Rail (Kingston/Plymouth),Plymouth,-70.692514,41.981184,250235302001007
+#a000a0,Commuter Rail (Kingston/Plymouth),Kingston/Route 3,-70.720315,41.978548,250235091011010
+#a000a0,Commuter Rail (Kingston/Plymouth),Halifax,-70.820832,42.012867,250235261003016
+#a000a0,Commuter Rail (Kingston/Plymouth),Hanson,-70.881553,42.043262,250235221025002
+#a000a0,Commuter Rail (Kingston/Plymouth),Whitman,-70.923204,42.083563,250235212024015
+#a000a0,Commuter Rail (Kingston/Plymouth),Abington,-70.935296,42.108034,250235201002007
+#a000a0,Commuter Rail (Kingston/Plymouth),South Weymouth,-70.95249,42.153747,250214222001020
+#a000a0,Commuter Rail (Kingston/Plymouth),Braintree Station,-71.00133419036865,42.20878042409267,250214191003020
+#a000a0,"Commuter Rail (Kingston/Plymouth, Middleborough/Lakeville)",Braintree Station,-71.00133419036865,42.20878042409267,250214191003020
+#a000a0,"Commuter Rail (Kingston/Plymouth, Middleborough/Lakeville)",Quincy Center Station,-71.004798,42.250879,250214177013022
+#a000a0,Commuter Rail (Middleborough/Lakeville),Middleborough/Lakeville,-70.918444,41.87821,250235401013000
+#a000a0,Commuter Rail (Middleborough/Lakeville),Bridgewater,-70.966625,41.986355,250235612001002
+#a000a0,Commuter Rail (Middleborough/Lakeville),Campello,-71.01246,42.060038,250235116003000
+#a000a0,Commuter Rail (Middleborough/Lakeville),Brockton,-71.01686,42.08572,250235109001000
+#a000a0,Commuter Rail (Middleborough/Lakeville),Montello,-71.021078,42.106047,250235102003002
+#a000a0,Commuter Rail (Middleborough/Lakeville),Holbrook/Randolph,-71.027518,42.155314,250214211003001
+#a000a0,Commuter Rail (Middleborough/Lakeville),Braintree Station,-71.00133419036865,42.20878042409267,250214191003020
